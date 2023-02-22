@@ -1,4 +1,4 @@
-📸📸 Screen shot 📸📸
+📸📸 Screen shot 
 
 
 dark Mode             |  Light Mode
