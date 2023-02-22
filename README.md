@@ -23,6 +23,6 @@ Notification Screen            |  Send Notification
 
 
 
-Animation             |  . 
+Animation             |   
 :-------------------------:|:-------------------------:
 ![7](https://user-images.githubusercontent.com/77027841/220624370-7d40be3a-64f3-4f33-b8ba-e1b6109db6d2.jpeg)
