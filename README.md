@@ -4,7 +4,8 @@ To Do App with Getx
 
 
 
-![5]()
+
+![7]()
 
 
 dark Mode             |  Light Mode
@@ -16,10 +17,10 @@ Task Completed & Delete Task            |  Add Task
 ![3](https://user-images.githubusercontent.com/77027841/220623709-cc0038e4-840f-4725-99cb-857d0456daf8.jpeg)  |  ![4](https://user-images.githubusercontent.com/77027841/220623788-97ccc63c-b92b-41df-b3ee-7138a57a883f.jpeg)
 
 
-Notification Screen            |  Notification
+Notification Screen            |  Send Notification 
 :-------------------------:|:-------------------------:
-![3](https://user-images.githubusercontent.com/77027841/220619631-80be8689-c43b-4a2f-b08a-0bf91261faf8.jpeg)  |  ![4](https://user-images.githubusercontent.com/77027841/220619635-0308375e-c6d2-4782-99da-5f12e0b04fea.jpeg)
+![3](https://user-images.githubusercontent.com/77027841/220624055-e0871d47-4244-444d-b7ee-203f56ff0b5b.jpeg)  |  ![4](https://user-images.githubusercontent.com/77027841/220624274-6fb18867-c96e-4919-ae92-dd0bc3b88ca6.jpeg)
 
-Animation            |  Notification
+Animation            |  
 :-------------------------:|:-------------------------:
-![7](https://user-images.githubusercontent.com/77027841/220619641-9e40b172-66f0-4ac6-bfc1-c1e3a63776aa.jpeg)
+![7](https://user-images.githubusercontent.com/77027841/220624370-7d40be3a-64f3-4f33-b8ba-e1b6109db6d2.jpeg)
