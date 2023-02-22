@@ -22,7 +22,7 @@ Notification Screen            |  Send Notification
 ![3](https://user-images.githubusercontent.com/77027841/220624055-e0871d47-4244-444d-b7ee-203f56ff0b5b.jpeg)  |  ![4](https://user-images.githubusercontent.com/77027841/220624274-6fb18867-c96e-4919-ae92-dd0bc3b88ca6.jpeg)
 
 
-Animation            |   . 
+Animation            |   Animation 
 
 :-------------------------:|:-------------------------:
 ![7](https://user-images.githubusercontent.com/77027841/220624370-7d40be3a-64f3-4f33-b8ba-e1b6109db6d2.jpeg)
