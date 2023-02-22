@@ -2,15 +2,18 @@ To Do App with Getx
 
 📸 Screen shot
 
-![2]()
+
+
+![5]()
+
 
 dark Mode             |  Light Mode
 :-------------------------:|:-------------------------:
-![1](https://user-images.githubusercontent.com/77027841/220623414-1b0d4352-4166-4f33-875d-d0241607d6f4.jpeg)  |  ![2]([https://user-images.githubusercontent.com/77027841/220619588-ce3d52ab-b7b4-490a-a3ec-704702fcef5d.jpeg](https://user-images.githubusercontent.com/77027841/220623469-fcbe629b-f08e-443e-a78d-7b6ad6285350.jpeg))
+![1](https://user-images.githubusercontent.com/77027841/220623414-1b0d4352-4166-4f33-875d-d0241607d6f4.jpeg)  |  ![2](https://user-images.githubusercontent.com/77027841/220623581-d8628247-750a-429c-b2b5-39057a7c10b9.jpeg)
 
 Task Completed & Delete Task            |  Add Task
 :-------------------------:|:-------------------------:
-![3](https://user-images.githubusercontent.com/77027841/220619608-894a8b37-4a06-4202-8091-2171895dd73e.jpeg)  |  ![4](https://user-images.githubusercontent.com/77027841/220619619-4d85826b-3fc0-4234-8f2a-521b225b3e0b.jpeg)
+![3](https://user-images.githubusercontent.com/77027841/220623709-cc0038e4-840f-4725-99cb-857d0456daf8.jpeg)  |  ![4](https://user-images.githubusercontent.com/77027841/220623788-97ccc63c-b92b-41df-b3ee-7138a57a883f.jpeg)
 
 
 Notification Screen            |  Notification
