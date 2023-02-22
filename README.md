@@ -1,6 +1,4 @@
-To Do App with Getx
-
-📸 Screen shot
+📸📸 Screen shot 📸📸
 
 
 dark Mode             |  Light Mode
